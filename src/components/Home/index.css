@@ -1,0 +1,24 @@
+.app-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: lightpink;
+    height: 100vh;
+}
+
+.heading {
+    color: white;
+
+}
+
+.list{
+    list-style-type: none;
+   
+}
+
+.list-item {
+    color: white;
+    padding: 10px;
+}
+
